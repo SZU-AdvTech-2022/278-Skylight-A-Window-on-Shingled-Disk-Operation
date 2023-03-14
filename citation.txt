@@ -1,0 +1,8 @@
+@article{REPO-279,
+    author = "Aghayev, Abutalib and Shafaei, Mansour and Desnoyers, Peter",
+    journal = "ACM Trans. Storage",
+    number = "4",
+    title = "{Skylight-A Window on Shingled Disk Operation}",
+    volume = "11",
+    year = "2015"
+}
